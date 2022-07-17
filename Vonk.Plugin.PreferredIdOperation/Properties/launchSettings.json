@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vonk.Plugin.PreferredId - Debug": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\dotnet\\dotnet.exe",
+      "commandLineArgs": "C:\\Firely\\firely-server-latest\\Firely.Server.dll",
+      "workingDirectory": "C:\\Firely\\firely-server-latest"
+    }
+  }
+}
